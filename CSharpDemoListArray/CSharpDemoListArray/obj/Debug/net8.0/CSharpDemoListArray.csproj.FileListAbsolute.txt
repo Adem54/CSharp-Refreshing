@@ -1,0 +1,14 @@
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\bin\Debug\net8.0\CSharpDemoListArray.exe
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\bin\Debug\net8.0\CSharpDemoListArray.deps.json
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\bin\Debug\net8.0\CSharpDemoListArray.runtimeconfig.json
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\bin\Debug\net8.0\CSharpDemoListArray.dll
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\bin\Debug\net8.0\CSharpDemoListArray.pdb
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\CSharpDemoListArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\CSharpDemoListArray.AssemblyInfoInputs.cache
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\CSharpDemoListArray.AssemblyInfo.cs
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\CSharpDemoListArray.csproj.CoreCompileInputs.cache
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\CSharpDemoListArray.dll
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\refint\CSharpDemoListArray.dll
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\CSharpDemoListArray.pdb
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\CSharpDemoListArray.genruntimeconfig.cache
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\CSharpDemoListArray\obj\Debug\net8.0\ref\CSharpDemoListArray.dll

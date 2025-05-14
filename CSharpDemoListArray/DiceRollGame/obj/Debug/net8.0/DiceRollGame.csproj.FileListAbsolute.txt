@@ -1,0 +1,14 @@
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\Hp35\Desktop\Projects\CSharpDemoListArray\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll

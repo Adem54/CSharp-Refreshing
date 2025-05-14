@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSharpDemoListArray": {
+      "commandName": "Project",
+      "commandLineArgs": "Skien"
+    }
+  }
+}

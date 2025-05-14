@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\handledicerollgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\handledicerollgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\userinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\userinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\guessresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\guessresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\generaterandomnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\generaterandomnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\gamemessanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\gamemessanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\evaluateguessinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\evaluateguessinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\dicerollgame\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8265DED7-F67C-41F7-A96E-1EFE8B499DAC}|DiceRollGame\\DiceRollGame.csproj|solutionrelative:dicerollgame\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\namesfilepathbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\namesfilepathbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\namesformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\namesformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\namesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\namesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\medicalappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\medicalappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\emails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\emails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\dataaccess\\stringtextualrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\dataaccess\\stringtextualrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|c:\\users\\hp35\\desktop\\projects\\csharpdemolistarray\\csharpdemolistarray\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD06A7-91B5-46CB-8263-17AEA10100A5}|CSharpDemoListArray\\CSharpDemoListArray.csproj|solutionrelative:csharpdemolistarray\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelBooking.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\HotelBooking.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\HotelBooking.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\HotelBooking.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\HotelBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:11:08.122Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\Dice.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\Dice.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\Dice.cs",
+              "RelativeToolTip": "DiceRollGame\\Dice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T23:24:28.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuessResult.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\GuessResult.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\GuessResult.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\GuessResult.cs",
+              "RelativeToolTip": "DiceRollGame\\GuessResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:29:41.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameMessanger.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\GameMessanger.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\GameMessanger.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\GameMessanger.cs",
+              "RelativeToolTip": "DiceRollGame\\GameMessanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:07:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandleDiceRollGame.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\HandleDiceRollGame.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\HandleDiceRollGame.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\HandleDiceRollGame.cs",
+              "RelativeToolTip": "DiceRollGame\\HandleDiceRollGame.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwEgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:53:06.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EvaluateGuessInput.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\EvaluateGuessInput.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\EvaluateGuessInput.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\EvaluateGuessInput.cs",
+              "RelativeToolTip": "DiceRollGame\\EvaluateGuessInput.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:52:45.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\UserInputHandler.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\UserInputHandler.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\UserInputHandler.cs",
+              "RelativeToolTip": "DiceRollGame\\UserInputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:51:24.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateRandomNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\GenerateRandomNumber.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\GenerateRandomNumber.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\GenerateRandomNumber.cs",
+              "RelativeToolTip": "DiceRollGame\\GenerateRandomNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:48:04.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DiceRollGame\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DiceRollGame\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T21:34:32.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\Program.cs",
+              "RelativeDocumentMoniker": "DiceRollGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\DiceRollGame\\Program.cs*",
+              "RelativeToolTip": "DiceRollGame\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:29:50.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NamesFilePathBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\NamesFilePathBuilder.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\NamesFilePathBuilder.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\NamesFilePathBuilder.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\NamesFilePathBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:01:12.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NamesFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\NamesFormatter.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\NamesFormatter.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\NamesFormatter.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\NamesFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:01:10.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StringTextualRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\DataAccess\\StringTextualRepostory.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\DataAccess\\StringTextualRepostory.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\DataAccess\\StringTextualRepostory.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\DataAccess\\StringTextualRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:58:39.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Program.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:58:10.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NamesValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\NamesValidator.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\NamesValidator.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\NamesValidator.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\NamesValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:55:17.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Emails.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Emails.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\Emails.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Emails.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\Emails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:46:49.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Names.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Names.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\Names.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Names.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\Names.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:29:47.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Calculator.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Calculator.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\Calculator.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:33:57.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Person.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\Person.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Person.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\Person.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:37:47.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Rectangle.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Rectangle.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\Rectangle.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwGQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:49:41.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Dog.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\Dog.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\Dog.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:39:52.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicalAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\MedicalAppointment.cs",
+              "RelativeDocumentMoniker": "CSharpDemoListArray\\MedicalAppointment.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharpDemoListArray\\CSharpDemoListArray\\MedicalAppointment.cs",
+              "RelativeToolTip": "CSharpDemoListArray\\MedicalAppointment.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwEQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:38:18.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
