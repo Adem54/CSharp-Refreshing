@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp35\\Desktop\\Projects\\Cookie_CookBook\\Cookie_CookBook\\Cookie_CookBook.csproj",
+      "projectUniqueName": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\Cookie_CookBook\\Cookie_CookBook.csproj",
       "projectName": "Cookie_CookBook",
-      "projectPath": "C:\\Users\\Hp35\\Desktop\\Projects\\Cookie_CookBook\\Cookie_CookBook\\Cookie_CookBook.csproj",
+      "projectPath": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\Cookie_CookBook\\Cookie_CookBook.csproj",
       "packagesPath": "C:\\Users\\Hp35\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp35\\Desktop\\Projects\\Cookie_CookBook\\Cookie_CookBook\\obj\\",
+      "outputPath": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\Cookie_CookBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
