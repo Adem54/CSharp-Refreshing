@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|c:\\users\\hp35\\desktop\\projects\\csharp-refreshing\\cookie_cookbook\\cookiecook2\\dataaccess\\istringrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|solutionrelative:cookiecook2\\dataaccess\\istringrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|c:\\users\\hp35\\desktop\\projects\\csharp-refreshing\\cookie_cookbook\\cookiecook2\\dataaccess\\stringjsonrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|solutionrelative:cookiecook2\\dataaccess\\stringjsonrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|c:\\users\\hp35\\desktop\\projects\\csharp-refreshing\\cookie_cookbook\\cookiecook2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|solutionrelative:cookiecook2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E760264-B4CA-4C1E-B482-96B0290C240D}|Cookie_CookBook\\Cookie_CookBook.csproj|c:\\users\\hp35\\desktop\\projects\\csharp-refreshing\\cookie_cookbook\\cookie_cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E760264-B4CA-4C1E-B482-96B0290C240D}|Cookie_CookBook\\Cookie_CookBook.csproj|solutionrelative:cookie_cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|c:\\users\\hp35\\desktop\\projects\\csharp-refreshing\\cookie_cookbook\\cookiecook2\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|solutionrelative:cookiecook2\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|c:\\users\\hp35\\desktop\\projects\\csharp-refreshing\\cookie_cookbook\\cookiecook2\\recipes\\ingredients\\butter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50924AD4-DD9B-40E9-B0AC-E2841B82F331}|CookieCook2\\CookieCook2.csproj|solutionrelative:cookiecook2\\recipes\\ingredients\\butter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringJsonRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\DataAccess\\StringJsonRepostory.cs",
+              "RelativeDocumentMoniker": "CookieCook2\\DataAccess\\StringJsonRepostory.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\DataAccess\\StringJsonRepostory.cs",
+              "RelativeToolTip": "CookieCook2\\DataAccess\\StringJsonRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:08:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IStringRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\DataAccess\\IStringRepostory.cs",
+              "RelativeDocumentMoniker": "CookieCook2\\DataAccess\\IStringRepostory.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\DataAccess\\IStringRepostory.cs",
+              "RelativeToolTip": "CookieCook2\\DataAccess\\IStringRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:06:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Butter.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\Recipes\\Ingredients\\Butter.cs",
+              "RelativeDocumentMoniker": "CookieCook2\\Recipes\\Ingredients\\Butter.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\Recipes\\Ingredients\\Butter.cs",
+              "RelativeToolTip": "CookieCook2\\Recipes\\Ingredients\\Butter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:42:14.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\Recipes\\Recipe.cs",
+              "RelativeDocumentMoniker": "CookieCook2\\Recipes\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\Recipes\\Recipe.cs",
+              "RelativeToolTip": "CookieCook2\\Recipes\\Recipe.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:03:49.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\Program.cs",
+              "RelativeDocumentMoniker": "CookieCook2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\CookieCook2\\Program.cs",
+              "RelativeToolTip": "CookieCook2\\Program.cs",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAqwJ8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:19:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\Cookie_CookBook\\Program.cs",
               "RelativeDocumentMoniker": "Cookie_CookBook\\Program.cs",
               "ToolTip": "C:\\Users\\Hp35\\Desktop\\Projects\\CSharp-Refreshing\\Cookie_CookBook\\Cookie_CookBook\\Program.cs",
               "RelativeToolTip": "Cookie_CookBook\\Program.cs",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAiwPQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T09:46:21.741Z",
               "EditorCaption": ""
